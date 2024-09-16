@@ -1,0 +1,23 @@
+.Hero {
+  background: linear-gradient(#21f2cd, #a1a8e646, #C4A3E0);
+  font-family: "exo";
+  font-weight: bold;
+  
+  
+}
+
+.Hero .container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+}
+
+.hero {
+    transform: matrix(1.4, 0, 0, 2, 0, 1);
+}
+
+.Hero h2 {
+    transform: matrix(1.1, 0, -.3, 1, -7, 15);
+
+}

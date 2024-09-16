@@ -1,0 +1,15 @@
+.Navbar {
+    margin: 25px;
+}
+.Navbar img {
+  margin-right: 25px;
+}
+
+
+.full-name {
+  display: flex;
+  float: inline-end;
+  margin-top: 25px;
+  color: #21F2CD;
+  
+}
