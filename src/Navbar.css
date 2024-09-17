@@ -1,15 +1,17 @@
-.Navbar {
-    margin: 25px;
+.navbar-mono {
+  font-family: 'fascinate';
+  padding: 35px;
+  font-size: 72px;
+  color: rgb(231, 231, 239);
 }
-.Navbar img {
-  margin-right: 25px;
-}
-
 
 .full-name {
   display: flex;
   float: inline-end;
   margin-top: 25px;
-  color: #21F2CD;
-  
+  color: #21f2cd;
+}
+
+.Navbar .btn {
+  margin-right: 35px;
 }

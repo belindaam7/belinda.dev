@@ -1,23 +1,31 @@
 .Hero {
-  background: linear-gradient(#21f2cd, #a1a8e646, #C4A3E0);
   font-family: "exo";
   font-weight: bold;
   
-  
+
 }
 
 .Hero .container {
   max-width: 960px;
   margin: 0 auto;
   padding: 40px;
-  text-align: center;
 }
 
 .hero {
-    transform: matrix(1.4, 0, 0, 2, 0, 1);
+  transform: matrix(1.4, 0, 0, 2, 0, -10);
+  font-size: 28px;
+}
+
+.hero-name {
+  color: #8edad3;
+  font-size: 62px;
+  font-family: "fascinate";
+  text-shadow: 3px 3px 0px rgb(164, 136, 234);
+  text-shadow: 3px 3px 0px black;
 }
 
 .Hero h2 {
-    transform: matrix(1.1, 0, -.3, 1, -7, 15);
-
+  transform: matrix(1.1, 0, -0.3, 1, -7, 30);
+  font-weight: 700;
+  color: white;
 }

@@ -5,6 +5,7 @@ import "./index.css";
 import App from "./App";
 import "./scss/custom.scss";
 import 'typeface-exo';
+import '@fontsource/fascinate';
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(

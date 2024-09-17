@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fontsource/fascinate": "^5.1.0",
+    "@fontsource/matemasie": "^5.1.0",
     "@phosphor-icons/react": "^2.1.7",
     "@picocss/pico": "^2.0.6",
     "@testing-library/jest-dom": "^5.17.0",
