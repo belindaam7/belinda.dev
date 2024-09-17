@@ -1,5 +1,5 @@
 import React from "react";
-import { Avocado, EggCrack } from "@phosphor-icons/react";
+
 
 export default function Hero() {
   return (

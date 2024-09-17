@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object":"7.21.11",
     "@fontsource/fascinate": "^5.1.0",
     "@fontsource/matemasie": "^5.1.0",
     "@phosphor-icons/react": "^2.1.7",

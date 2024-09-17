@@ -1,6 +1,6 @@
 import React from "react";
 import "./Navbar.css";
-import logo from "./images/firstBAlogo.png";
+
 
 export default function Navbar() {
   return (
